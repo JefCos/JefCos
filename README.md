@@ -6,8 +6,8 @@
 
 I am a Full Stack Developer from Germany.
 
-- 🔭 I’m currently working as a Junior Developer for Academic Work contributing to frontend and backend for web applications.
-- 🌱 I’m currently learning docker, always try to improve on Java, Angular and Spring Framework.
+- 🔭 I’m currently working as a Junior Developer.
+- 🌱 I always try to improve on Java, Angular and Spring Framework.
 - 👯 I’m looking to collaborate on open source software projects.
 
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-SebastianOffergeld-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianoffergeld/)
